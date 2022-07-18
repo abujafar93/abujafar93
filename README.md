@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk](https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&show_icons=true&theme=radical)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

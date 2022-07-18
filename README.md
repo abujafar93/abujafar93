@@ -14,10 +14,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk](https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&layout=compact&langs_count=10&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

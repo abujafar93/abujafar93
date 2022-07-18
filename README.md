@@ -13,6 +13,10 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk](https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&hide=contribs,prs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/abujafar93" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="abujafar93" height="30" width="40" /></a>
@@ -28,9 +32,7 @@
 
 I'm Quadri from Nigeria, a Frontend Software Engineer. I love improving and working with languages and frameworks like Javascript and React, as well as wordpress. Open to new opportunities.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&hide=contribs,prs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) 
+ 
 -->
 
 <!--

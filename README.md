@@ -2,8 +2,6 @@
 
 I'm Quadri from Nigeria, a Frontend Software Engineer. I love improving and working with languages and frameworks like Javascript and React, as well as wordpress. Open to new opportunities.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=abujafar93&repo=github-readme-stats)](https://github.com/abujafar93/github-readme-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&hide=contribs,prs)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Quadri from Nigeria</h1>
-<h3 align="center">A passionate Frontend Software Engineer. I love improving and working with languages and frameworks like Javascript and React, as well as wordpress. Open to new opportunities.</h3>
+<h1 align="center">Hi there👋</h1> 
+<h2 align="center">I'm Quadri from Nigeria</h2>
+<h3>A passionate Frontend Software Engineer. I love improving and working with languages and frameworks like Javascript and React, as well as wordpress. Open to new opportunities.</h3>
 
 - 🔭 I’m currently working on [e-commerce-page](https://abujafar93.github.io/e-commerce-page/)
 
@@ -15,7 +16,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abujafar93&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&langs_count=10&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abujafar93&layout=compact&langs_count=10&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

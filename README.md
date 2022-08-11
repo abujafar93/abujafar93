@@ -16,32 +16,10 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abujafar93&show_icons=true&locale=en&layout=compact" alt="abujafar93" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abujafar93&show_icons=true&locale=en" alt="abujafar93" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abujafar93&" alt="abujafar93" /></p>
-
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=bolajiayodeji&show_icons=true&include_all_commits=true&hide_border=true" alt="Bolaji's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bolajiayodeji&langs_count=8&layout=compact&hide_border=true" alt="Bolaji's GitHub stats" /> |
+| <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abujafar93&show_icons=true&locale=en&layout=compact" alt="abujafar93" /> | <img align="center" src="https://github-readme-stats.vercel.app/api?username=abujafar93&show_icons=true&locale=en" alt="abujafar93" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abujafar93&" alt="abujafar93" /> |
 | ------------- | ------------- |
 
 
-
-- 🔭 I’m currently working on [e-commerce-page](https://abujafar93.github.io/e-commerce-page/)
-
-- 🌱 I’m currently learning **React js**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abujafar93](https://github.com/abujafar93)
-
-- 📝My Portfolio [https://abujafar93.github.io/MyPortfolio/](https://abujafar93.github.io/MyPortfolio/)
-
-- 📫 How to reach me **quadri1435@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EBUg94fDsLDHGtBp4GVvaaGxWAP5ISC2/view?usp=drivesdk]()
-
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
